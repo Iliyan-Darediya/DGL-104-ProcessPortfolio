@@ -11,6 +11,20 @@
 
 ## Week-2
 
+### 0202
+<p>Considering the React project I was working on, they weren't qutie descriptive.</p>
+<p>The following are the changes I would like to make in them
+Changing name of the following variables and methods:</p>
+
+  - from d to date
+  - from n to name
+  - from uploadinglist to setList
+  - from get_user_data_to_state to getUserData
+  - from changingthestate to handleChange
+  
+<p>I reckon using proper variable names would be quite helpful in the long run.Reading the code after a long time,I couldn't understand what the words d and n represented. If at all I were to send my code to some other developer I might have to put in the extra hardwork document what each word meant</p>
+
+
 ### 0203
 <p>I found the kata to be quite simple. It barely took me a minute to figure out the logic. Although I had to spend a couple on debugging.</p>
 
