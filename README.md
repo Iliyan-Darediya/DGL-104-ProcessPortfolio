@@ -29,3 +29,24 @@ Changing name of the following variables and methods:</p>
 <p>I found the kata to be quite simple. It barely took me a minute to figure out the logic. Although I had to spend a couple on debugging.</p>
 
 ![kata](Kata.png)
+
+## Week-3
+
+### 0301
+
+<p>The app that I choose for comparison is Instagram. I tried to find screenshots of it on an IOS device, but I couldn't. So I'm comparing its android interface with the web interface.</p>
+<p>The key differnces I found are as follows</p>
+
+  -  The app on android covers larger width by percentage,than the web does.
+  -  The header section of the web app consists of the app name, a search bar and a log in details section.
+  -  The header section of the android app only has the back option and the more option in its header
+  -  The web app doesn't display the new reels feature, whereas the mobile app does.
+  -  Hovering over the posts on the web app gives us the number of likes and comments on a particular post, long Pressing the post on the mobile app doesn't give us this option
+  
+<img src= "instagramAndroid.jpeg" alt = "instagramAndroid" height = 250px/>
+<img src= "instagramWeb.png" alt = "instagramWeb" height = 250px/>
+
+### 0302
+
+The document I choose is <a href = "https://developer.apple.com/documentation/applemusicapi">Apple Music.</a> 
+<p>The documentation was short and consise. It showed how the key;tokens and response ; request are handled. It also provided details on how we can find a particular album, artist or song. It also talked about the playlist feature. It provide an insight in terms of music genres and ratings. The musicKit Js article was a related article, it talked about how to use applemusic in our own application </p>
