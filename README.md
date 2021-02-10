@@ -50,3 +50,15 @@ Changing name of the following variables and methods:</p>
 
 The document I choose is <a href = "https://developer.apple.com/documentation/applemusicapi">Apple Music.</a> 
 <p>The documentation was short and consise. It showed how the key;tokens and response ; request are handled. It also provided details on how we can find a particular album, artist or song. It also talked about the playlist feature. It provide an insight in terms of music genres and ratings. The musicKit Js article was a related article, it talked about how to use applemusic in our own application </p>
+
+## Week-4
+
+### 0401
+
+https://pttrns.com/applications/763
+
+This is the pattern that I chose.
+<p>The reson I choose this pattern is because I feel that this pattern has a subtle navigation layout throught. It has a certain way of its management in terms of graphics and spacing. This pattern can be well used by users who prefer the one-hand use option. I believe that all the elements in this pattern are well responsive </p>
+
+<img src= "Week4k1.png" alt = "Week4k1" height = 500px/>
+<img src= "Week4k2.png" alt = "Week4k2" height = 500px/>
