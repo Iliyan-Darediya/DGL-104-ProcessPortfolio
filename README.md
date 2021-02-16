@@ -64,3 +64,22 @@ This is the pattern that I chose.
 
 <img src= "Week4k1.png" alt = "Week4k1" height = 500px/>
 <img src= "Week4k2.png" alt = "Week4k2" height = 500px/>
+
+## Week-5
+
+### 0501
+
+simmilarities and differnces
+| MVC  | MCP | MVVM |
+| ------------- | ------------- | ------------- |
+| No interaction between View and the Model | Interaction between View and Presenter exists  | No interaction between View and the Model  |
+| The input is handled by the controller  | The input is handled by the View  | The input is handled by the controller  |
+| The input is handled by the controller  | The input is handled by the View  | The input is handled by the controller  |
+| One of the oldest software architecture  | Developed as the second iteration of software architecture which is advance from MVC.  | Industry-recognized architecture pattern for applications.  |
+
+<p>I would choose MVC when my user wants to access my model and want's its information on the view.I would use MVP if the effect on the update is limited. I would opt for MVVM if my app is using lots of views</p>
+
+### 0502
+
+<img src= "Week5k1.png" alt = "Week5k1" height = 500px/>
+<img src= "Week5k2.png" alt = "Week5k2" height = 500px/>
