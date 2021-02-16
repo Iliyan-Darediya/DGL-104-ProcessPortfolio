@@ -74,7 +74,6 @@ simmilarities and differnces
 | ------------- | ------------- | ------------- |
 | No interaction between View and the Model | Interaction between View and Presenter exists  | No interaction between View and the Model  |
 | The input is handled by the controller  | The input is handled by the View  | The input is handled by the controller  |
-| The input is handled by the controller  | The input is handled by the View  | The input is handled by the controller  |
 | One of the oldest software architecture  | It is developed as the second iteration of software architecture which is advance from MVC.  | Currently it is the industry-recognized architecture pattern for applications.  |
 
 <p>I would choose MVC when my user wants to access my model and want's its information on the view.I would use MVP if the effect on the update is limited. I would opt for MVVM if my app is using lots of views</p>
