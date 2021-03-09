@@ -60,7 +60,7 @@ https://pttrns.com/applications/763
 This is the pattern that I chose.
 <p>The reson I choose this pattern is because I feel that this pattern has a subtle navigation layout throught. It has a certain way of its management in terms of graphics and spacing. This pattern can be well used by users who prefer the one-hand use option. I believe that all the elements in this pattern are well responsive </p>
 
-## 0403
+### 0403
 
 <img src= "Week4k1.png" alt = "Week4k1" height = 500px/>
 <img src= "Week4k2.png" alt = "Week4k2" height = 500px/>
@@ -82,3 +82,18 @@ simmilarities and differnces
 
 <img src= "Week5k1.png" alt = "Week5k1" height = 500px/>
 <img src= "Week5k2.png" alt = "Week5k2" height = 500px/>
+
+## Week-8
+
+### 0802
+App Chosen: WatsApp
+
+  -  I reckon that there is only one resource that is critical to the app's functionality and that it disk storage. 
+  -  For every message, document, link the user receives the user's personal disk storage keeps on being inflicted.
+  -  The developer should keep that in mind and make the data stored on cloud like discord.
+  -  At times the app does affect the processing power of the device. For instance when the device loads a lot of messages, because the user was offline for a while or when the user receives or uploads documents that are a bit large.
+
+### 0803
+
+<img src= "Week8k1.png" alt = "Week8k1" height = 500px/>
+<img src= "Week8k2.png" alt = "Week8k2" height = 500px/>
