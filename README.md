@@ -97,3 +97,35 @@ App Chosen: WatsApp
 
 <img src= "Week8k1.png" alt = "Week8k1" height = 500px/>
 <img src= "Week8k2.png" alt = "Week8k2" height = 500px/>
+
+## Week-9
+
+### 0901
+App Chosen: WatsApp and snapChat
+
+Use Of notification:
+
+- WatsApp
+  - Notifies the user when the user gets a message
+  - Notifies the user when the user gets a voice or a video call 
+- SnapChat
+  - Notifies the user when they get a message
+  - Notifies the user when someone is typing a message
+  - Notifies the user when someone took a screenshot of either their story of their chat
+
+Offline usage:
+
+- WatsApp
+  - Allows the user to view past messages
+  - The user cannot send or receive messages or calls
+- SnapChat
+  - The user cannot view the stories or messages.
+  - The user can view the snaps stored in their local storage
+  - Notifies the user when someone is typing a message
+
+### 0903
+
+- I am quite certain that I've used all the four steps while debugging
+- I believe that I've used the process of hypothesizing and experimenting well
+- I reckon I could study my data better,so that would be one step I would like to improve on
+- I think that these four methods would work regardless of where the error/situation is, because if we know the error we could fix it by hypothesizing and experimenting. If not we could find the error by studing our data, experimenting and repeating.
