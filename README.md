@@ -129,3 +129,22 @@ Offline usage:
 - I believe that I've used the process of hypothesizing and experimenting well
 - I reckon I could study my data better,so that would be one step I would like to improve on
 - I think that these four methods would work regardless of where the error/situation is, because if we know the error we could fix it by hypothesizing and experimenting. If not we could find the error by studing our data, experimenting and repeating.
+
+## Week-10
+
+### 1001
+I've found myself programming by coincidence,when I was trying to learn Django. I was trying to understand backend programing. I was using existing examples as templates and I reckon, while doing so I programmed by coincidence. While reading there was a point regarding not to be enslaved by past codes. This was something that struck me
+
+### 1002
+
+I particularly find assertions close to the default value in js functions. Recently I used assertion in the 114 assignment 4. The app used to crash if there wasn't any value in the the operands and the operation buttons were clicked. I used assertions to simple add 0 if the value of the operand was null. I assertions could have the potential to replace if blocks(at least in my codes).
+
+## Week-11
+
+### 1102
+I knew nothing about the option+d tool in VS code. it drastically changed my way of editing my code. If you select a word and press option+d, it would select the next instance of the word as well. So if you wish to make changes you just have to type and both the instances would be updated.
+
+### 1103
+
+<img src= "Week11k1.png" alt = "Week11k1" height = 500px/>
+<img src= "Week11k2.png" alt = "Week11k2" height = 500px/>
